@@ -9,7 +9,7 @@ PortalBox is a simple addon that gathers all of your portal and teleport spells 
 # Following commands:
 /port
 /portalbox
-Clicking on its minimap icon
+or Clicking on its minimap icon
 
 
 ![image](https://user-images.githubusercontent.com/85767653/124335442-8eabc380-db9a-11eb-8b91-6cfaa7dc122a.png)
